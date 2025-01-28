@@ -319,7 +319,7 @@ function shiftleftg() {
     const [opensignin,setopensignin]=useState(false)
     function openlogin(){
       setopensignin(!opensignin)
-      console.log(opensignin)
+      // console.log(opensignin)
     }
 
   return (
